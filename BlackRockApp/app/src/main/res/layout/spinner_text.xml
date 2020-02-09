@@ -1,0 +1,10 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@color/light_gray"
+    android:hint="Select Stocks"
+    android:text="@string/select_stocks"
+    android:textColor="@color/blue_black"
+    android:textColorHint="@color/light_gray"
+    android:textSize="20sp" />
